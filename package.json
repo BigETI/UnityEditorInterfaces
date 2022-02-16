@@ -1,0 +1,19 @@
+{
+    "name": "com.unity.editorinterfaces",
+    "version": "1.0.0",
+    "displayName": "Unity Editor interfaces",
+    "description": "This package contains interfaces to represent Unity Editor classes used for example in https://github.com/BigETI/UnityPatterns",
+    "dependencies": {},
+    "keywords": [
+        "base",
+        "editor",
+        "interface",
+        "interfaces",
+        "unity"
+    ],
+    "author": {
+        "name": "Ethem Kurt",
+        "email": "bigeti.ethem@gmail.com",
+        "url": "https://bigeti.de/"
+    }
+}
